@@ -1,0 +1,3 @@
+This file was created in feature2 branch of feature2folder. 
+
+Now 2 loine were added.
