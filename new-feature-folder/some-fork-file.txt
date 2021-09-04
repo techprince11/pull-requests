@@ -1,0 +1,3 @@
+Hi , I am creating this file in 'new-feature-folder' folder.
+
+Editing and updating this file again.
